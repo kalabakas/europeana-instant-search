@@ -1,0 +1,111 @@
+body {
+  height: 100%;
+}
+.hit {
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+
+.hit a{
+  color: #46AEDA;
+}
+
+.hit em {
+  font-size: 1em;
+  background-color: #FCF5E2;
+  font-style: normal;
+  color: #122337;
+}
+
+.primary-attribute{
+	font-size: 0.8em;
+  font-weight: 600;
+  display: block;
+  margin-bottom: -5px;
+  font-family: dosis;
+  line-height: 1.2em !important;
+
+}
+
+.secondary-attribute{
+  font-size: .6em;
+  display: inline-block;
+  font-style: italic;
+  padding: 0 .2em 0 0;
+  line-height: 1em !important;
+}
+
+.image-attribute{
+  float: left;
+  width: 40px;
+  min-height: 40px;
+  padding-top: 5px;
+  margin-right: 10px;
+}
+
+.image-attribute img{
+  width: 100%;
+}
+
+.typeahead {
+  width: 300px;
+  height: 30px;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.tt-input,
+.tt-hint {
+  width: 396px;
+  height: 30px;
+  padding: 8px 12px;
+  font-size: 24px;
+  line-height: 30px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+}
+
+.tt-input {
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+  color: #999
+}
+
+.tt-dropdown-menu {
+  width: 422px;
+  margin-top: 12px;
+  padding: 8px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+
+}
+
+.tt-suggestion {
+  padding: 3px 20px;
+  font-size: 18px;
+  line-height: 40px;
+  padding: 5px 10px !important;
+  margin: 0 !important;
+}
+
+.tt-suggestion.tt-cursor {
+  color: #fff;
+  background-color: #0097cf;
+}
+
+.tt-suggestion p {
+  margin: 0;
+}
+
+.tt-suggestion em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "europeana",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "autocomplete",
+    "description": "The description of the application"
+  }
+}

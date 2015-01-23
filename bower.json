@@ -1,0 +1,22 @@
+{
+  "name": "europeana",
+  "version": "0.0.1",
+  "dependencies": {
+    "algoliasearch": "~2.8.6",
+    "typehead.js": "~0.10.5",
+    "jquery": "~2.1.3"
+  },
+  "authors": [
+    "georgekyrg <georgekyrg@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
